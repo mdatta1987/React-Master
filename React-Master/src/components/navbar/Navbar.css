@@ -1,0 +1,12 @@
+.menu-items-list {
+    display: inline-flex;
+    margin: 0px;
+    padding: 0px;
+    right: 10px;
+    position: absolute;
+}
+
+.menu-item {
+    list-style-type: none;
+    padding: 10px 15px;
+}

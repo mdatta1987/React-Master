@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "Id": 1,
+            "Name": "IPhone 11",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7T7FQC6rucqB_IvUlZImbvcQ_n7oC6rhkrSrYvDaIAY1Ta36vchEKZLgvfVZf2EgSB58&usqp=CAU",
+            "Price": 45000,
+            "Description": "You can snap tons of cool pictures with the iPhone 11 Pro's powerful camera and telephoto lens. Give your photography skills a boost with these features.",
+            "Category": "electronics",
+            "AvailableCount": 130,
+            "Manufacturer": "Apple"
+        },
+        {
+            "Id": 2,
+            "Name": "IPhone 12",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrHsYME9CExbbwz7kZTjs9HkSUQ7cP2OM0L3qQEu9t8DzXU96AFrwR5wrmje724GzQU2o&usqp=CAU",
+            "Price": 60000,
+            "Description": "You can snap tons of cool pictures with the iPhone 12 Pro's powerful camera and telephoto lens. Give your photography skills a boost with these features.",
+            "Category": "electronics",
+            "AvailableCount": 103,
+            "Manufacturer": "Apple"
+        },
+        {
+            "Id": 3,
+            "Name": "IPhone 13",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkW9KAy48nPu2R3GI8cbcDx-6F1lyn3haGg&usqp=CAU",
+            "Price": 110000,
+            "Description": "You can snap tons of cool pictures with the iPhone 13 Pro's powerful camera and telephoto lens. Give your photography skills a boost with these features.",
+            "Category": "electronics",
+            "AvailableCount": 80,
+            "Manufacturer": "Apple"
+        },
+        {
+            "Id": 4,
+            "Name": "Nike Running Shoe",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiD26F7cZZuUfaqqtdqs_hm51U08hTGd5BQ&usqp=CAU",
+            "Price": 6525,
+            "Description": "You can snap tons of cool pictures with the iPhone 11 Pro's powerful camera and telephoto lens. Give your photography skills a boost with these features.",
+            "Category": "apparel",
+            "AvailableCount": 10,
+            "Manufacturer": "Nike"
+        },
+        {
+            "Id": 5,
+            "Name": "Gillete Trimmer",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw91TiNdnmRJJBmgW1uZTpBsG8kAD8UItkgQ&usqp=CAU",
+            "Price": 3500,
+            "Description": "Trimmer is designed for edging, outlining and would be used on the paws, ears, muzzle and tight areas where it's hard to reach with the larger clipper blade.",
+            "Category": "personalcare",
+            "AvailableCount": 13,
+            "Manufacturer": "Gillete"
+        },
+        {
+            "Id": 6,
+            "Name": "Puma Trainning Shoes",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXRhatV4HfPUWjBY5Lp2tR-3vvLFyyqFpVw&usqp=CAU",
+            "Price": 4200,
+            "Description": "Maintain Fitness and Style with the New Range of men's PUMA® running shoes. Free shipping",
+            "Category": "apparel",
+            "AvailableCount": 5,
+            "Manufacturer": "Puma"
+        }
+    ]
+}

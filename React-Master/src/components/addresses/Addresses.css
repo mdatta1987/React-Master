@@ -1,0 +1,44 @@
+.address-select {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:10px 35%;
+}
+
+.text-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-address-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:10px 30%;
+}
+
+.address-input {
+    padding: 10px;
+    margin: 10px 20%;
+}
+
+.btn-save {
+    padding: 10px;
+    margin: 10px 20%;
+}
+
+.btn-save button{
+    width: 100%;
+}
+
+.btn-order {
+    display: flex;
+    justify-content: center;
+}
+
+.notification-section div{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "firstname": "Madhumita",
+            "email": "Madhumita.Datta@gmail.com",
+            "password": "Susmita@123",
+            "role": "Admin"
+        },
+        {
+            "firstname": "Gaurav",
+            "email": "Gaurav1989@yahoo.in",
+            "password": "$gd@7365",
+            "role": "User"
+        },
+        {
+            "firstname": "Susmita",
+            "email": "SushRoy123@gmail.com",
+            "password": "LetMeIn@y9395",
+            "role": "User"
+        }
+    ]
+}

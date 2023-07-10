@@ -1,0 +1,30 @@
+{
+    "address": [
+        {
+            "name": "Sudhan",
+            "type": "Work",
+            "doorNo": "33/A4",
+            "apartmentName": "Nestle Apartment",
+            "street": "VGP Colony 4th Street",
+            "area": "Madippakam",
+            "city": "Chennai",
+            "state": "Tamilnadu",
+            "landmark": "Near Airtel building",
+            "zipcode": "600078",
+            "contact": "9856753432"
+        },
+        {
+            "name": "Sankar",
+            "type": "Home",
+            "doorNo": "7/4A",
+            "apartmentName": "S.S Homes",
+            "street": "Sri Durga Nagar",
+            "area": "Nagercoil",
+            "city": "Kanyakumari",
+            "state": "Tamilnadu",
+            "landmark": "Near New Bridge",
+            "zipcode": "6297034",
+            "contact": "9856753121"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+.toggle-menu {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.sortby-section {
+    margin: 5px 40px;
+}
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.product-card {
+    display: flex;
+    margin: 30px 10px;
+    padding: 10px;
+    justify-content: space-around;
+    flex-grow: 1;
+}
+
+.product-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-section {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.card-section a{
+    text-decoration: none;
+}
+
+.btn-buy {
+    margin-right: 50%;
+    display: inline-flex;
+}
+
+.icon-section {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.edit-icon-section {
+    display: flex;
+    margin: 5px;
+    padding: 0px 5px;
+    align-items: center;
+}
+
+.delete-icon {
+    display: flex;
+    margin: 5px;
+    padding: 0px 5px;
+    align-items: center;
+}
+
+.edit-icon-section:hover {
+    cursor: pointer;
+    background-color: rgb(236, 239, 241);
+    border-radius: 50%;
+}
+
+.delete-icon:hover {
+    cursor: pointer;
+    background-color: rgb(236, 239, 241);
+    border-radius: 50%;
+}
+
+.order-notification-section div {
+    background-color: rgb(27, 177, 27);
+    color: white;
+}
+
+.delete-notification-section div {
+    background-color: rgb(27, 177, 27);
+    color: white;
+}
+
+.edit-notification-section div{
+    background-color: rgb(27, 177, 27);
+    color: white;
+}
+
+.new-notification-section div {
+    background-color: rgb(27, 177, 27);
+    color: white;
+}

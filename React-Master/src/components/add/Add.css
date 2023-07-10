@@ -1,0 +1,42 @@
+.add-product-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:10px 30%;
+}
+
+.product-input {
+    padding: 10px;
+    margin: 5px 20%;
+}
+
+.product-input div{
+    width: 100%;
+}
+
+.product-select {
+    padding: 10px;
+    margin: 5px 20%;
+}
+
+.product-select div {
+    width: 100%;
+}
+
+.btn-add {
+    padding: 20px 10px;
+    margin: 10px 20%;
+}
+
+.btn-add button {
+    width: 100%;
+}
+
+.btn-add a{
+    text-decoration: none;
+}
+
+.product-notification-section div{
+    background-color: red;
+    color: white;
+}
