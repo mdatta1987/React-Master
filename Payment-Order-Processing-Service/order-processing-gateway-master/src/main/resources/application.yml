@@ -1,0 +1,20 @@
+server:
+  port: 8085
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: order_processing
+          uri: http://localhost:8080
+          predicates:
+            - Path=/orderproxy/**
+          filters:
+            - PrefixPath=/v1
+            - RewritePath=/orderproxy(?<segment>/?.*), /order$\{segment}
+        - id: payment_processing
+          uri: http://localhost:8082
+          predicates:
+            - Path=/paymentsproxy/**
+          filters:
+            - PrefixPath=/v1
+            - RewritePath=/paymentsproxy(?<segment>/?.*), /payments$\{segment}
