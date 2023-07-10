@@ -1,0 +1,3 @@
+config:
+  diseaseSh-io-url: https://corona.lmao.ninja/v2/countries/India
+  john-hopkins-url: https://corona.lmao.ninja/v2/all
